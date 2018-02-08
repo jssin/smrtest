@@ -1,3 +1,4 @@
 # smrtest
 test
 hello
+orange
