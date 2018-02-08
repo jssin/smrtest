@@ -1,2 +1,3 @@
 # smrtest
 test
+hello
